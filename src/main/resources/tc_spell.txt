@@ -1,0 +1,346 @@
+[
+    {
+        "key": " splendor",
+        "value": {}
+    },
+    {
+        "key": "sealing light ii",
+        "value": {}
+    },
+    {
+        "key": " insight",
+        "value": {}
+    },
+    {
+        "key": "sealing light",
+        "value": {}
+    },
+    {
+        "key": "protection: shadow",
+        "value": {}
+    },
+    {
+        "key": "light spear",
+        "value": {}
+    },
+    {
+        "key": "pulsing light iii",
+        "value": {}
+    },
+    {
+        "key": "pulsing light ii",
+        "value": {}
+    },
+    {
+        "key": "pulsing light",
+        "value": {}
+    },
+    {
+        "key": " curesick",
+        "value": {}
+    },
+    {
+        "key": "⭐phrenesis' healing circle",
+        "value": {}
+    },
+    {
+        "key": " abundance",
+        "value": {}
+    },
+    {
+        "key": "quenching sphere",
+        "value": {}
+    },
+    {
+        "key": "resist silence",
+        "value": {}
+    },
+    {
+        "key": "resist paralysis",
+        "value": {}
+    },
+    {
+        "key": " quake",
+        "value": {}
+    },
+    {
+        "key": " tremor",
+        "value": {}
+    },
+    {
+        "key": "copper skin",
+        "value": {}
+    },
+    {
+        "key": "stone skin",
+        "value": {}
+    },
+    {
+        "key": " unearth",
+        "value": {}
+    },
+    {
+        "key": "calming murmurs",
+        "value": {}
+    },
+    {
+        "key": " thunderstrike",
+        "value": {}
+    },
+    {
+        "key": " doublestrike",
+        "value": {}
+    },
+    {
+        "key": " lightning",
+        "value": {}
+    },
+    {
+        "key": " zap",
+        "value": {}
+    },
+    {
+        "key": " burst",
+        "value": {}
+    },
+    {
+        "key": "soothing breeze",
+        "value": {}
+    },
+    {
+        "key": "perfect strike",
+        "value": {}
+    },
+    {
+        "key": "true strike",
+        "value": {}
+    },
+    {
+        "key": "guided strike",
+        "value": {}
+    },
+    {
+        "key": "dust devil ii",
+        "value": {}
+    },
+    {
+        "key": "dust devil",
+        "value": {}
+    },
+    {
+        "key": "spiteful hex",
+        "value": {}
+    },
+    {
+        "key": "venom i",
+        "value": {}
+    },
+    {
+        "key": " whisper",
+        "value": {}
+    },
+    {
+        "key": "wild growth",
+        "value": {}
+    },
+    {
+        "key": "dark promptings",
+        "value": {}
+    },
+    {
+        "key": "wind sense",
+        "value": {}
+    },
+    {
+        "key": "water sense",
+        "value": {}
+    },
+    {
+        "key": "fire sense",
+        "value": {}
+    },
+    {
+        "key": "unseen servant",
+        "value": {}
+    },
+    {
+        "key": "protection: nature",
+        "value": {}
+    },
+    {
+        "key": "protection: water",
+        "value": {}
+    },
+    {
+        "key": "protection: fire",
+        "value": {}
+    },
+    {
+        "key": "protection: light",
+        "value": {}
+    },
+    {
+        "key": "magic tending",
+        "value": {}
+    },
+    {
+        "key": " revive",
+        "value": {}
+    },
+    {
+        "key": "summon raven",
+        "value": {}
+    },
+    {
+        "key": "summon spider",
+        "value": {}
+    },
+    {
+        "key": "summon hobgoblin",
+        "value": {}
+    },
+    {
+        "key": "vine whip",
+        "value": {}
+    },
+    {
+        "key": "poison ward",
+        "value": {}
+    },
+    {
+        "key": "frost bolt iii",
+        "value": {}
+    },
+    {
+        "key": "frost bolt ii",
+        "value": {}
+    },
+    {
+        "key": "frost bolt",
+        "value": {}
+    },
+    {
+        "key": "water spray",
+        "value": {}
+    },
+    {
+        "key": "fire dart",
+        "value": {}
+    },
+    {
+        "key": "call spirit",
+        "value": {}
+    },
+    {
+        "key": " mud",
+        "value": {}
+    },
+    {
+        "key": "fling stone",
+        "value": {}
+    },
+    {
+        "key": "greater prismatic spray",
+        "value": {}
+    },
+    {
+        "key": "prismatic spray",
+        "value": {}
+    },
+    {
+        "key": "magic missile",
+        "value": {}
+    },
+    {
+        "key": " mana",
+        "value": {}
+    },
+    {
+        "key": "lesser mana",
+        "value": {}
+    },
+    {
+        "key": "minor mana",
+        "value": {}
+    },
+    {
+        "key": "whirling step",
+        "value": {}
+    },
+    {
+        "key": "poison nettle",
+        "value": {}
+    },
+    {
+        "key": " gloom",
+        "value": {}
+    },
+    {
+        "key": "dark bolt",
+        "value": {}
+    },
+    {
+        "key": " fount",
+        "value": {}
+    },
+    {
+        "key": "cure paralysis",
+        "value": {}
+    },
+    {
+        "key": " speak",
+        "value": {}
+    },
+    {
+        "key": " embolden",
+        "value": {}
+    },
+    {
+        "key": " wake",
+        "value": {}
+    },
+    {
+        "key": " clarity",
+        "value": {}
+    },
+    {
+        "key": "minor fount",
+        "value": {}
+    },
+    {
+        "key": "assemble mecha-mender",
+        "value": {}
+    },
+    {
+        "key": "assemble mecha-charger",
+        "value": {}
+    },
+    {
+        "key": "repair machina",
+        "value": {}
+    },
+    {
+        "key": " mana&amp;fount",
+        "value": {}
+    },
+    {
+        "key": " common_spell_1",
+        "value": {}
+    },
+    {
+        "key": " smite",
+        "value": {}
+    },
+    {
+        "key": "high tide",
+        "value": {}
+    },
+    {
+        "key": " fissure",
+        "value": {}
+    },
+    {
+        "key": "iron skin",
+        "value": {}
+    }
+]

@@ -1,0 +1,33 @@
+server:
+  port: 9001
+spring:
+  application:
+    name: distruibuted-transaction
+  datasource:
+    druid:
+      stat-view-servlet:
+        enabled: true
+      filter:
+        stat:
+          enabled: true
+      web-stat-filter:
+        enabled: true
+      one:
+        url: jdbc:mysql://192.168.1.5:3306
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        username: root
+        password: root
+        initial-size: 5
+      two:
+        url: jdbc:mysql://192.168.1.5:3307
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        username: root
+        password: root
+        initial-size: 6
+mybatis:
+#  mapper-locations: mapper/*.xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+
+
